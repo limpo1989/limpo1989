@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 
 **🔭Tools**
 - [tcpkali2](https://github.com/limpo1989/tcpkali2) A load testing tool for WebSocket and TCP server written by Rust
+- [plex-pusher](https://github.com/limpo1989/plex-pusher) Push your plex server event by WxPusher
