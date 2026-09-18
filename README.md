@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - [go-netty-ws](https://github.com/go-netty/go-netty-ws) An Websocket server & client written by `go-netty`
 - [kcp-csharp](https://github.com/limpo1989/kcp-csharp) KCP - A Fast and Reliable ARQ Protocol written by C#
 - [uio](https://github.com/urpc/uio) uio is a ultra-fast, lightweight, non-blocking, event-driven networking framework written in pure Go
+- [uws](https://github.com/urpc/uio/tree/main/uws) uws is an asynchronous WebSocket implementation built on UIO
 
 **🌱Application library**
 - [go-spring](https://github.com/go-spring-projects/go-spring) Go-Spring vision is to empower Go programmers with a powerful programming framework
